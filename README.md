@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Bajaj</h1>
 <h3 align="center">A Computer Science enthusiast!</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
+<img align="left" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bajajsakshi738&label=Profile%20views&color=0e75b6&style=flat" alt="bajajsakshi738" /> </p>
 
